@@ -2,8 +2,8 @@
   "name": "shopping-cart",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/marclerodrigues/shopping-cart",
-  "author": "Marcle Rodrigues <maarclee@gmail.com>",
+  "repository": "https://github.com/GusAlberto/Carrinho-de-compras",
+  "author": "Gustavo Alberto <gustavoasouzasilva@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^8.0.0"
